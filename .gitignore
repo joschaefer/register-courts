@@ -1,0 +1,6 @@
+composer.phar
+/vendor/
+**/.DS_Store
+.idea/
+settings.php
+errors.log
